@@ -55,8 +55,8 @@
                         API's
                     </div>
 					<div class="text-sm opacity-60">
-                        This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
-					</div>
+                        Most api that I have worked on are RPC based, I have also worked on RESTful api's, I have also worked on GraphQL api's,And i use Axum as a web framework to create api's
+                    </div>
 				</div>
                 <div class="p-4 space-y-2">
 					<div class="variant-filled-tertiary text-2xl p-2 w-fit rounded-token">
@@ -64,11 +64,12 @@
 					</div>
 
 					<div class="font-semibold">
-                        Multi Web App API's
+                        Multi web apps API's
                     </div>
 					<div class="text-sm opacity-60">
-                        This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
-					</div>
+                        Same i use Axum in this field to create api's,To mange multiple apps in one code base, I have also worked on websockets to create real time api's.
+
+                    </div>
 				</div>
                 <div class="p-4 space-y-2">
 					<div class="variant-filled-tertiary text-2xl p-2 w-fit rounded-token">
@@ -79,8 +80,8 @@
                         Embbeded Systems
                     </div>
 					<div class="text-sm opacity-60">
-                        This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
-					</div>
+                        I devlop software for microcontrollers, I have worked on the stm32f4 and stm32f1 series,And try to build my own Kernel as a hobby and i want to make it a os.
+                    </div>
 				</div>
                 <div class="p-4 space-y-2">
 					<div class="variant-filled-tertiary text-2xl p-2 w-fit rounded-token">
@@ -91,8 +92,8 @@
                         GUI Development
                     </div>
 					<div class="text-sm opacity-60">
-                        This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
-					</div>
+                        I have worked on GUI development using GTK and QT, I have also worked on web development using Svelte , Tuari and Iced. 
+                    </div>
 				</div>
 		</div>
 	</div>
