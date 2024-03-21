@@ -2,10 +2,12 @@
     import Apip from "./APIP.svelte";
 </script>
 
-   <div class="grid grid-cols-2 gap-4">
-    <Apip />
-    <Apip />
-    <Apip />
-    <Apip />
+   
+   <div class="flex flex-wrap">
+    <div class="w-full sm:w-1/2 p-4 bg-primary-700"> <Apip /></div>
+    <div class="w-full sm:w-1/2 p-4 bg-primary-700"> <Apip /></div>
+    <div class="w-full sm:w-1/2 p-4 bg-primary-700"> <Apip /></div>
+    <div class="w-full sm:w-1/2 p-4 bg-primary-700"> <Apip /></div>
    </div>
+   
    
