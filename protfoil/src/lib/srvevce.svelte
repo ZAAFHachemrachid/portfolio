@@ -38,13 +38,12 @@
 	<div class="grid grid-cols-1 md:grid-cols-12">
 		<div class="space-y-4 md:col-span-4 p-4">
 			<div class="text-xl md:text-3xl font-bold">
-				Integrate effortlessly with any technology stack
-			</div>
+                Services :
+            </div>
 			<p class="max-w-xl opacity-60 mx-auto">
 				Every once in a while, you’ll see a Golbat that’s missing some fangs. This happens when
 				hunger drives it to try biting a Steel-type Pokémon.
 			</p>
-			<button class="btn md:btn-lg variant-filled-tertiary">Get Started</button>
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:col-span-8">
 				<div class="p-4 space-y-2">
@@ -53,8 +52,8 @@
 					</div>
 
 					<div class="font-semibold">
-                        Extreme performance
-					</div>
+                        API's
+                    </div>
 					<div class="text-sm opacity-60">
                         This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
 					</div>
@@ -65,8 +64,8 @@
 					</div>
 
 					<div class="font-semibold">
-                        Extreme performance
-					</div>
+                        Multi Web App API's
+                    </div>
 					<div class="text-sm opacity-60">
                         This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
 					</div>
@@ -77,8 +76,8 @@
                     </div>
 
 					<div class="font-semibold">
-                        Extreme performance
-					</div>
+                        Embbeded Systems
+                    </div>
 					<div class="text-sm opacity-60">
                         This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
 					</div>
@@ -89,8 +88,8 @@
                     </div>
 
 					<div class="font-semibold">
-                        Extreme performance
-					</div>
+                        GUI Development
+                    </div>
 					<div class="text-sm opacity-60">
                         This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit
 					</div>
